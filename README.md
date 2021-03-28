@@ -12,13 +12,14 @@ You must have installed NodeJs
 
 ```bash
 git clone https://github.com/Noflare/YouCare_Bot
-cd YouCare_Bot
-npm install requirement --save
+npm install request
+npm install opn
 ```
 
 ## Usage
 
 ```bash
+cd YouCare_Bot
 node youcare.js
 ```
 ![Exemple](https://media.discordapp.net/attachments/787267176141946911/825753595152171008/image.PNG)
