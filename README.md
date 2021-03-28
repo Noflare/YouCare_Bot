@@ -21,6 +21,6 @@ npm install requirement --save
 ```bash
 node youcare.js
 ```
-![Exemple](/image.png)
+![Exemple](https://media.discordapp.net/attachments/787267176141946911/825753595152171008/image.PNG)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
