@@ -11,8 +11,8 @@ I'm french sorry for the rough translation, I'm also a beginner in the world of 
 You must have installed NodeJs
 
 ```bash
-git clone 
-cd YouCareBot
+git clone https://github.com/Noflare/YouCare_Bot
+cd YouCare_Bot
 npm install requirement --save
 ```
 
